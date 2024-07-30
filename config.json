@@ -122,5 +122,8 @@
             "enabled": false
         }
     },
-    "hermesEnabled": false
+    "hermesEnabled": false,
+    "appVersion": "0.0.1",
+    "buildNumber": 76,
+    "runtimeUrl": "https://wms113-sandbox.mxapps.io/"
 }
