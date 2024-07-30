@@ -101,13 +101,13 @@
             "enabled": false
         },
         "pushNotifications": {
-            "enabled": true
+            "enabled": false
         },
         "crashlytics": {
             "enabled": false
         },
         "firebaseAndroid": {
-            "enabled": true
+            "enabled": false
         },
         "firebaseIos": {
             "enabled": false
