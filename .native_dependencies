@@ -1,0 +1,8 @@
+{
+    "@react-native-firebase/app": "17.3.0",
+    "@react-native-firebase/messaging": "17.3.0",
+    "@react-native-community/push-notification-ios": "1.10.1",
+    "react-native-push-notification": "8.1.1",
+    "@react-native-community/netinfo": "5.9.7",
+    "react-native-linear-gradient": "2.5.6"
+}
